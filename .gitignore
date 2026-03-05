@@ -1,0 +1,26 @@
+# Build folders
+Debug/
+Release/
+Binaries/
+
+# Binary outputs
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Object files
+*.o
+*.d
+
+# CubeIDE metadata
+.metadata/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
