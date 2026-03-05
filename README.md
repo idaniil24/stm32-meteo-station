@@ -22,7 +22,6 @@ Weather station based on **STM32F401 BlackPill** using several I2C sensors and a
 **Sensors**
 
 * AHT20 — temperature & humidity / температура и влажность
-* BMP280 — atmospheric pressure / атмосферное давление
 * DS3231 — real time clock / часы реального времени
 
 **Display**
